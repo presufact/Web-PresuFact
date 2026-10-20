@@ -16,7 +16,7 @@ export const site = {
   description:
     "Diseño web, SEO y automatización con inteligencia artificial para autónomos y pequeñas empresas. Consigue más clientes y deja que los presupuestos y las facturas se hagan solos.",
   url: "https://presufact.es", // TODO: dominio definitivo
-  email: "hola@presufact.es", // TODO: email real
+  email: "presufact@gmail.com", // TODO: email real
   phone: "+34 600 000 000", // TODO: teléfono real
   whatsapp: "34600000000", // TODO: número de WhatsApp con prefijo, sin "+" ni espacios
 };
